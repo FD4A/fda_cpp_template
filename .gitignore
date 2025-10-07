@@ -1,0 +1,14 @@
+*.txt
+
+.doit.db
+doit_out/
+
+MODULE.bazel
+MODULE.bazel.lock
+bazel-bin
+bazel-fda_containers
+bazel-out
+bazel-testlogs
+
+__pycache__/
+*/__pycache__
